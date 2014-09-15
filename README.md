@@ -100,7 +100,7 @@ If you run into any problems, double check that you have installed both the upgr
 
 
 [PySAL]: http://pysal.org
-[GeoDaSpace]: https://geodacenter.asu.edu/geodaspace-mode
+[GeoDaSpace]: https://geodacenter.asu.edu/software/downloads/geodaspace
 [Anaconda]: http://continuum.io/downloads.html
 [Canopy]: https://www.enthought.com/store
 [VirtualBox]: https://www.virtualbox.org/wiki/Downloads
