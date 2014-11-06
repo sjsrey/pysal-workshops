@@ -1,11 +1,11 @@
 
 # Spatial Data Analysis with PySAL and GeoDaSpace
 
-**[Sergio Rey]**
+**[Sergio Rey and Luc Anselin]**
 
-**September 23, 2014**
+**November 12, 2014**
 
-**GISCIENCE  2014, Vienna**
+**NARSC  2014, Bethesda, Maryland**
 
 ## Tutorial Description
 
