@@ -1,7 +1,7 @@
 
 # Spatial Data Analysis with PySAL and GeoDaSpace
 
-**[Sergio Rey and Luc Anselin]**
+**[Sergio Rey] and [Luc Anselin]**
 
 **November 12, 2014**
 
@@ -108,3 +108,4 @@ If you run into any problems, double check that you have installed both the upgr
 [Vagrant]: http://www.vagrantup.com/downloads.html
 [Vagrantfile]: Vagrantfile
 [Sergio Rey]: https://geoplan.asu.edu/people/sergio-j-rey
+[Luc Anselin]: https://geoplan.asu.edu/people/luc-anselin
